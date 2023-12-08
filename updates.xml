@@ -2,5 +2,5 @@
 <item>
   <version>1.1.0.0</version>
   <url>https://updatecenter.easygun.vn/EasyGunLauncher-1.1.0.0.rar</url>
-  <mandatory>true</mandatory>
+  <mandatory mode="2">true</mandatory>
 </item>
